@@ -1,0 +1,101 @@
+,Partner Name,Annual Green Power Usage (kWh),GP % of Total Electricity Use*,Industry,Green Power Resources
+0,Google LLC,"7,914,747,101",93%,Technology & Telecom,"Solar, Wind"
+1,Microsoft Corporation,"6,684,879,000",100%,Technology & Telecom,"Small-hydro, Solar, Wind"
+2,Intel Corporation,"5,022,773,872",100%,Technology & Telecom,Various
+3,Walmart Inc.,"2,718,227,534",14%,Retail,Various
+4,The Procter & Gamble Company,"2,530,523,507",100%,Consumer Products,Various
+5,"Equinix, Inc.","2,484,616,951",106%,Technology & Telecom,"Biomass, Geothermal, Small-hydro, Solar, Wind"
+6,AT&T,"2,360,337,220",18%,Technology & Telecom,Wind
+7,Apple Inc.,"2,202,581,271",101%,Technology & Telecom,"Biogas, Biomass, Small-hydro, Solar, Wind"
+8,Bank of America,"1,773,446,499",109%,Banking & Fin. Srvcs.,Various
+9,T-Mobile,"1,757,017,000",25%,Technology & Telecom,"Solar, Wind"
+10,PepsiCo,"1,711,233,504",100%,Food & Beverage,"Solar, Wind"
+11,Wells Fargo,"1,611,074,372",100%,Banking & Fin. Srvcs.,"Solar, Wind"
+12,Kaiser Permanente,"1,594,764,926",98%,Health Care,"Biogas, Biomass, Solar, Wind"
+13,Samsung Electronics,"1,339,124,850",100%,Technology & Telecom,"Biogas, Solar, Wind"
+14,"General Motors, LLC","1,224,190,836",41%,Automotive,"Biogas, Solar, Wind"
+15,"ALDI, Inc.","1,063,674,527",100%,Retail,Various
+16,"Cisco Systems, Inc.","1,063,237,505",100%,Technology & Telecom,"Solar, Wind"
+17,Starbucks (Company-Owned Stores),"1,046,506,760",100%,Restaurants & Cafes,Various
+18,Kimberly-Clark Corporation,"1,034,937,000",33%,Consumer Products,Wind
+19,"City of Houston, TX","1,001,219,178",90%,"Govt. (Local, Municipal)","Solar, Wind"
+20,Owens Corning,"990,682,581",59%,Industrial Goods & Srvcs.,"Solar, Wind"
+21,General Mills,"956,000,000",100%,Food & Beverage,Wind
+22,Switch,"810,841,737",100%,Technology & Telecom,Solar
+23,"Anheuser-Busch Companies, LLC","759,764,000",53%,Wineries & Breweries,"Solar, Wind"
+24,Target Corporation,"740,318,514",19%,Retail,"Solar, Wind"
+25,"Mars, Incorporated","727,782,770",75%,Food & Beverage,"Solar, Wind"
+26,Digital Realty,"709,761,327",11%,Technology & Telecom,"Solar, Wind"
+27,"City of Dallas, TX","701,801,878",100%,"Govt. (Local, Municipal)",Wind
+28,Citi,"593,536,085",100%,Banking & Fin. Srvcs.,Wind
+29,"Iron Mountain Information Management, LLC","587,166,331",90%,Technology & Telecom,Various
+30,District of Columbia,"538,237,000",110%,"Govt. (Local, Municipal)","Solar, Wind"
+31,University of California,"480,801,183",46%,Education (Higher),Various
+32,Saint-Gobain North America,"477,400,000",42%,Other,Wind
+33,Montgomery County Clean Energy Buyers Group,"467,339,000",85%,"Govt. (Local, Municipal)",Wind
+34,Dallas Fort Worth International Airport,"443,590,108",102%,Transportation,"Solar, Wind"
+35,Johnson & Johnson,"430,970,386",69%,Health Care,"Solar, Wind"
+36,QTS Realty Trust,"430,090,000",32%,Technology & Telecom,"Solar, Wind"
+37,Massachusetts Bay Transportation Authority,"428,726,693",100%,Transportation,Various
+38,Unilever,"422,638,335",100%,Consumer Products,Various
+39,BD,"410,132,911",70%,Health Care,Various
+40,Dell Technologies,"404,054,000",61%,Technology & Telecom,"Solar, Wind"
+41,"Crown Holdings, Inc. / USA Beverage Division","402,800,000",100%,Industrial Goods & Srvcs.,Wind
+42,salesforce.com,"397,799,050",60%,Technology & Telecom,"Solar, Wind"
+43,The Boeing Company,"376,610,554",18%,Industrial Goods & Srvcs.,"Small-hydro, Solar, Wind"
+44,Kohler Co.,"374,371,680",104%,Consumer Products,"Solar, Wind"
+45,Best Buy,"374,264,000",56%,Retail,"Solar, Wind"
+46,The Clorox Company,"371,787,000",100%,Consumer Products,"Solar, Wind"
+47,State of California,"337,015,828",13%,Govt. (State),"Biomass, Solar, Wind"
+48,Commonwealth of Pennsylvania,"322,933,000",40%,Govt. (State),Various
+49,Lockheed Martin,"322,000,000",22%,Industrial Goods & Srvcs.,"Biomass, Solar, Wind"
+50,Capital One,"316,333,986",100%,Banking & Fin. Srvcs.,Wind
+51,"City of Austin, TX","310,012,080",100%,"Govt. (Local, Municipal)",Wind
+52,U.S. General Services Administration,"305,562,012",14%,Govt. (Federal),"Solar, Wind"
+53,eBay Inc.,"275,608,040",82%,Technology & Telecom,"Solar, Wind"
+54,"Goldman Sachs Group, Inc.","269,581,929",100%,Banking & Fin. Srvcs.,Wind
+55,Siemens USA,"269,348,000",83%,Industrial Goods & Srvcs.,Wind
+56,Arizona State University,"254,322,901",78%,Education (Higher),Various
+57,IKEA,"243,273,778",100%,Retail,"Biogas, Solar, Wind"
+58,Columbia University,"232,109,000",100%,Education (Higher),Various
+59,"Cummins, Inc.","231,336,076",48%,Industrial Goods & Srvcs.,"Solar, Wind"
+60,Johnson Controls,"230,448,455",78%,Industrial Goods & Srvcs.,"Biogas, Biomass, Solar"
+61,BNY Mellon,"230,000,000",101%,Banking & Fin. Srvcs.,Wind
+62,"Solvay America, Inc.","219,961,000",21%,Chemical,"Solar, Wind"
+63,"University at Buffalo, the State University of New York","216,403,405",102%,Education (Higher),"Solar, Wind"
+64,Colgate-Palmolive Company,"215,379,000",82%,Consumer Products,Wind
+65,DHL,"214,070,000",100%,Shipping,Wind
+66,JPMorgan Chase & Co.,"213,953,094",14%,Banking & Fin. Srvcs.,"Solar, Wind"
+67,Textron Aviation,"211,992,000",79%,Industrial Goods & Srvcs.,Wind
+68,TD Bank,"210,209,954",101%,Banking & Fin. Srvcs.,"Solar, Wind"
+69,BMO Harris Bank,"210,000,000",95%,Banking & Fin. Srvcs.,Wind
+70,AstraZeneca,"209,520,000",100%,Health Care,Wind
+71,Boston University,"205,000,000",100%,Education (Higher),Wind
+72,H&M,"202,696,679",100%,Clothing & Textile,Wind
+73,"PayPal, Inc. / U.S. Data Centers","193,987,840",98%,Banking & Fin. Srvcs.,"Solar, Wind"
+74,Stanford University,"186,275,157",69%,Education (Higher),Various
+75,HP Inc.,"182,033,624",100%,Technology & Telecom,Various
+76,Kilroy Realty Corporation,"176,908,645",69%,Real Estate,Various
+77,Unibail-Rodamco-Westfield,"176,581,391.32",88%,Real Estate,"Solar, Wind"
+78,IBM,"174,191,810",12%,Technology & Telecom,"Solar, Wind"
+79,University of Maryland,"171,274,825",68%,Education (Higher),"Small-hydro, Solar, Wind"
+80,American Express,"167,364,195",100%,Banking & Fin. Srvcs.,"Solar, Wind"
+81,"Church & Dwight Co., Inc.","159,445,000",107%,Consumer Products,Wind
+82,"County of Santa Clara, CA","159,263,835",97%,"Govt. (Local, Municipal)","Solar, Wind"
+83,State Street Corporation,"158,991,503",104%,Banking & Fin. Srvcs.,"Solar, Wind"
+84,Fifth Third Bank,"153,164,000",100%,Banking & Fin. Srvcs.,"Solar, Wind"
+85,State of Delaware,"152,853,933",50%,Govt. (State),Various
+86,Georgetown University,"152,404,000",127%,Education (Higher),Wind
+87,SAP America,"150,000,000",100%,Technology & Telecom,Wind
+88,Bloomberg LP,"137,373,268",64%,Media & Publishing,"Solar, Wind"
+89,University of Arizona / Main Campus,"131,020,104",67%,Education (Higher),"Solar, Wind"
+90,HNI Corporation,"130,000,000",100%,Consumer Products,Wind
+91,University of Utah,"129,873,801",43%,Education (Higher),"Geothermal, Solar"
+92,Empire State Realty Trust,"129,511,607",100%,Real Estate,Various
+93,SC Johnson Consumer Brands,"126,358,263",63%,Consumer Products,"Biogas, Biomass, Small-hydro, Wind"
+94,Carnegie Mellon University,"125,005,846",111%,Education (Higher),"Solar, Wind"
+95,"Novozymes / Headquarters and Franklinton, NC Production Facility","125,000,000",100%,Industrial Goods & Srvcs.,Solar
+96,Saint Louis University,"125,000,000",105%,Education (Higher),Wind
+97,Brown-Forman Corporation,"122,900,598",104%,Food & Beverage,"Geothermal, Solar, Wind"
+98,University of Oklahoma,"122,065,000",72%,Education (Higher),Wind
+99,"Cinemark USA, Inc.","120,238,616",31%,Recreation,"Solar, Wind"
